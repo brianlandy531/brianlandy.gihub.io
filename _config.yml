@@ -45,8 +45,8 @@ additional_links:
 # google_analytics: "UA-00000000-0"
 
 # About Section
-# about_title: About Me
-about_profile_image: images/profile.jpg
+about_title: About Brian Landy
+about_profile_image: myNewContent/media_imgs_etc/profileImage.jpeg
 about_content: | # this will include new lines to allow paragraphs
   Hi, my name's Brian and this website is under construction! #TODO
 
@@ -57,29 +57,28 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Super awesome project
-        link: github.com/sproogen
+        title: TODO <Make an entry here...>
+        link: This is a link
         # link_text: Project Website
-        additional_links:
-          - title:  sproogen/modern-resume-theme
-            icon: fab fa-github
-            url: github.com/sproogen/modern-resume-theme
+        # additional_links:
+        #   - title:  sproogen/modern-resume-theme
+        #     icon: fab fa-github
+        #     url: github.com/sproogen/modern-resume-theme
           # - title:  Github page for project (eg. sproogen/modern-resume-theme)
           #   icon: fab fa-github
           #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
         quote: >
-          This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+          TODO text goes here...
         description: | # this will include new lines to allow paragraphs
-          I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
-
+          Here I will talk about extensive work with <mark>SOME TOOL</mark> and it has...
   - title: Experience # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: The Boring Company
+        title: TODO resume content goes here...
         link: boringcompany.com
         # link_text: boringcompany.com
-        sub_title: Senior Network System Administrator
+        sub_title: TODO engineer
         caption: November 2017 - Present
         quote: >
           Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
@@ -90,7 +89,7 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: left
-        title: Harvard University
+        title: TODO education
         caption: 2010 - 2013
         sub_title: BSc Computer Science
         quote: >
